@@ -1,0 +1,33 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "static/runtime/main.js": 2,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\Agent.js": 3,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\Boton.js": 4,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\Historias.js": 5,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\Index.js": 6,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\_app.js": 7,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\_error.js": 8,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\p\\[id].js": 9
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

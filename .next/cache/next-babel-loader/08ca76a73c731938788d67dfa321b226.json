@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nimport { useRouter } from 'next/router'; //import Layout from '../../components/Layouts';\n\nexport default function Post() {\n  var router = useRouter();\n  return React.createElement(\"div\", null, React.createElement(\"h1\", null, router.query.id));\n}","map":null,"metadata":{},"sourceType":"module"}

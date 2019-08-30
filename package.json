@@ -1,0 +1,23 @@
+{
+  "name": "amp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amphtml-validator": "^1.0.23",
+    "next": "^9.0.3",
+    "next-useragent": "^1.1.1",
+    "react": "^16.9.0",
+    "react-device-detect": "^1.7.5",
+    "react-dom": "^16.9.0",
+    "react-useragent": "^1.1.2"
+  }
+}

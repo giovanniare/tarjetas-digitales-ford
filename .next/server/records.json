@@ -1,0 +1,47 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/Agent.js": 0,
+      "multi private-next-pages/Boton.js": 1,
+      "multi private-next-pages/Historias.js": 2,
+      "multi private-next-pages/Index.js": 3,
+      "multi private-next-pages/p/[id].js": 4,
+      "multi next/dist/pages/_app": 5,
+      "multi next/dist/pages/_error": 6,
+      "multi next/dist/pages/_document": 7
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\Agent.js": 0,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\Boton.js": 1,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\Historias.js": 2,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\Index.js": 3,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\_app.js": 4,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\_document.js": 5,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\_error.js": 6,
+      "static\\wfLsACbsame8GCZZk-wCz\\pages\\p\\[id].js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import _JSXStyle from \"styled-jsx/style\";\nimport React from \"react\";\nexport default function Style() {\n  return React.createElement(React.Fragment, null, React.createElement(_JSXStyle, {\n    id: \"2839206509\"\n  }, [\"body{background:white;margin:0;padding:0;}\"]));\n}","map":null,"metadata":{},"sourceType":"module"}
